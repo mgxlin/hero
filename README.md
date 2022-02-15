@@ -9,4 +9,4 @@
 
 > [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mgxlin/hero)
 
-点击上面的链接以部署 V2Ray
+点击上面的链接开始部署 V2Ray
